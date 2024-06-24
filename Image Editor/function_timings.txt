@@ -1,0 +1,6 @@
+====================ESSENTIALS=====================
+SetContrast         : 0.17 seconds OK
+SetBrightness       : 0.15 seconds OK
+
+====================EFFECTS=====================
+Grayscale           : 1.31 seconds OK
